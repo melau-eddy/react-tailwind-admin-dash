@@ -13,7 +13,7 @@ import Footer from "./components/footer/Footer";
 function App() {
 
 
-  const Layout = ()=>(
+  const Layout = ()=>{
     return (
       <div className="main">
           <Navbar />
@@ -28,7 +28,7 @@ function App() {
           <Footer />
       </div>
     )
-  )
+  }
 
   const router = createBrowserRouter([
     {
