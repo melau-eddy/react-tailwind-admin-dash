@@ -1,3 +1,6 @@
+@import "./variables.scss";
+
+
 * {
   margin: 0;
   padding: 0;
@@ -11,5 +14,5 @@ a {
 
 .main{
   font-family: "Inter", sans-serif;
-  
+  background-color: $main-bg;
 }
