@@ -14,7 +14,17 @@
         color: $soft-color;
     }
 
-}
+    .listItem{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 10px;
+        border-radius: 5px;
 
+        &:hover{
+            background-color: $soft-bg;
+        }
+    }
 
+  }
 }
