@@ -33,14 +33,16 @@
 
                     .username{
                         font-size: 14px;
-                        font-weight: 50;
+                        font-weight: 500;
                     }
-                    .email{}
+                    .email{
+                        font-size: 12px;
+                    }
                 }
             }
 
             .amount{
-
+                    font-weight: 500;
             }
         }
     }
