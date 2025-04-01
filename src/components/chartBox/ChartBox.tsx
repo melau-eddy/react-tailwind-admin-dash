@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import "./chartBox.scss";
-import { Line, LineChart, ResponsiveContainer } from "recharts";
+import { Line, LineChart, ResponsiveContainer, Tooltip } from "recharts";
 
 
 const data = [
@@ -66,11 +66,18 @@ const ChartBox = () => {
             <div className="chart">
             <ResponsiveContainer width="100%" height="100%">
               <LineChart width={300} height={100} data={data}>
+                <Tooltip
+                contentStyle={{background: "transparent", border:"none"}}
+                labelStyle={{display: "none"}}
+                position={{ x:10, y:50 }}
+                
+                />
                    <Line 
                    type="monotone" 
                    dataKey="pv" 
-                   stroke="#8884d8"
+                   stroke=" #8884d8"
                     strokeWidth={2} 
+                    dot={false}
                     />
               </LineChart>
             </ResponsiveContainer>
