@@ -46,6 +46,13 @@ Features may be incomplete or subject to change. Please check back for updates.
    npm run build
    npm run preview
 
+ ## 📦 Key Dependencies
+- **React 18**
+- **🔐 Secure Access**: Audit logs for all transactions
+- **💸 Financial Tools**: End-to-end fund tracking (create, edit, archive)
+- **⚡ Tech Highlights*: TypeScript for type-safe development
+- **🎨 Modern UI**: Accessible, WCAG-compliant components
+
 ## 🛠 Project Structure
 ```bash
 src/
@@ -57,5 +64,5 @@ src/
 ├── utils/           # Utility functions
 ├── App.tsx          # Main app component
 └── main.tsx         # Entry point
-   
+
 
