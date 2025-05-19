@@ -6,7 +6,12 @@ A modern admin dashboard built with React 18, TypeScript, Tailwind CSS, and Vite
 
 ## Features
 
-- **Product Verification**: Scan QR codes, enter verification codes, or upload images to verify GMO products
+- **📊 Dashboard Analytics
+Real-time data visualization with interactive charts (Chart.js)
+
+KPI summary cards showing fund performance, transactions, and user activity
+
+Customizable widgets for priority metrics
 - **Educational Resources**: Access learning materials and webinars about GMO products
 - **Government Resources**: Direct links to official regulations and approval processes
 - **Interactive Quiz**: Test your knowledge about GMO products
