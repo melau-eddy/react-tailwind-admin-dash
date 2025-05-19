@@ -48,7 +48,7 @@ Features may be incomplete or subject to change. Please check back for updates.
 
  ## 📦 Key Dependencies
 - **React 18**
-- **🔐 Secure Access**: Audit logs for all transactions
+- **TypeScript 5**
 - **💸 Financial Tools**: End-to-end fund tracking (create, edit, archive)
 - **⚡ Tech Highlights*: TypeScript for type-safe development
 - **🎨 Modern UI**: Accessible, WCAG-compliant components
