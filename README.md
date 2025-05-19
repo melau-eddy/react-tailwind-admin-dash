@@ -34,5 +34,5 @@ Features may be incomplete or subject to change. Please check back for updates.
 3. Configure environment variables:
    ```bash
    cp .env.example .env
-  ## Edit the .env file with your API endpoints if needed.
+  Edit the .env file with your API endpoints if needed.
 
