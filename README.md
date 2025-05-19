@@ -50,8 +50,8 @@ Features may be incomplete or subject to change. Please check back for updates.
 - **React 18**
 - **TypeScript 5**
 - **Vite 4**
-- **⚡ Tech Highlights*: TypeScript for type-safe development
-- **🎨 Modern UI**: Accessible, WCAG-compliant components
+- **React Router DOM**
+- **Heroicons (for icons)**
 
 ## 🛠 Project Structure
 ```bash
