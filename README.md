@@ -2,7 +2,7 @@
 
 
 
-AgriVerify is a web application designed to provide information and verification services for GMO (Genetically Modified Organism) products in the agricultural sector. 
+A modern admin dashboard built with React 18, TypeScript, Tailwind CSS, and Vite.
 
 ## Features
 
