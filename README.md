@@ -28,3 +28,7 @@ Features may be incomplete or subject to change. Please check back for updates.
    ```bash
    git clone
    https://github.com/melau-eddy/react-tailwind-admin-dash
+2. Install dependencies:
+   ```bash
+   npm install
+
