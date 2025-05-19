@@ -17,9 +17,8 @@ A modern admin dashboard built with React 18, TypeScript, Tailwind CSS, and Vite
 ### 🚀 Getting Started
 - **Node.js (v16 or higher)**
 - **npm (v8 or higher) or yarn**
-- **JavaScript**: For interactive functionality
-- **Remix Icons**: For iconography
-- **Google Fonts**: Pacifico for logo and Poppins for body text
+- **Git**: 
+
 
 ### Backend (implied by template tags)
 - **Django/Python**: Suggested by the `{% %}` template tags
