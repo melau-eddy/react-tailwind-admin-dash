@@ -19,10 +19,6 @@ A modern admin dashboard built with React 18, TypeScript, Tailwind CSS, and Vite
 - **npm (v8 or higher) or yarn**
 - **Git**: 
 
-
-
-
-
  ##⚠️ **NOTICE: This application is currently under active development**  
 Features may be incomplete or subject to change. Please check back for updates.
 
