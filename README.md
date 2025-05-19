@@ -20,9 +20,7 @@ A modern admin dashboard built with React 18, TypeScript, Tailwind CSS, and Vite
 - **Git**: 
 
 
-### Backend (implied by template tags)
-- **Django/Python**: Suggested by the `{% %}` template tags
-- **Database**: (Not shown but typically used with Django)
+
 
 
  ##⚠️ **NOTICE: This application is currently under active development**  
