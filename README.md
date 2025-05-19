@@ -14,7 +14,7 @@ A modern admin dashboard built with React 18, TypeScript, Tailwind CSS, and Vite
 
 ## Technologies Used
 
-### Frontend
+### 🚀 Getting Started
 - **HTML5**: For page structure and content
 - **Tailwind CSS**: Utility-first CSS framework for styling
 - **JavaScript**: For interactive functionality
