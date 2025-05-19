@@ -52,6 +52,7 @@ Features may be incomplete or subject to change. Please check back for updates.
 - **Vite 4**
 - **React Router DOM**
 - **Heroicons (for icons)**
+- **Chart.js (for data visualization)**
 
 ## 🛠 Project Structure
 ```bash
