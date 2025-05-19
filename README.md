@@ -41,4 +41,9 @@ Features may be incomplete or subject to change. Please check back for updates.
    npm run dev
    # or
    yarn dev
+5. Production build:
+   ```bash
+   npm run build
+   npm run preview
+   
 
