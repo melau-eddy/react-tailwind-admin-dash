@@ -31,4 +31,7 @@ Features may be incomplete or subject to change. Please check back for updates.
 2. Install dependencies:
    ```bash
    npm install
+3. Configure environment variables:
+   ```bash
+   cp .env.example .env
 
