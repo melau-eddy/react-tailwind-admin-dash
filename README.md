@@ -10,7 +10,10 @@ A modern admin dashboard built with React 18, TypeScript, Tailwind CSS, and Vite
 -Real-time data visualization with interactive charts (Chart.js)
 -KPI summary cards showing fund performance, transactions, and user activity
 -Customizable widgets for priority metrics
-- **Educational Resources**: Access learning materials and webinars about GMO products
+**👥 User & Role Management
+-Multi-role access (Admin, Manager, Viewer) with permission controls
+-JWT authentication for secure login/logout
+-User profile management with avatar uploads
 - **Government Resources**: Direct links to official regulations and approval processes
 - **Interactive Quiz**: Test your knowledge about GMO products
 - **Responsive Design**: Works on desktop and mobile devices
