@@ -35,10 +35,10 @@ Features may be incomplete or subject to change. Please check back for updates.
    ```bash
    cp .env.example .env
   Edit the .env file with your API endpoints if needed.
+  
 4. Running the Project:
-   Development mode:
    ```bash
-npm run dev
-# or
-yarn dev
+   npm run dev
+   # or
+   yarn dev
 
