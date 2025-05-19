@@ -27,4 +27,4 @@ Features may be incomplete or subject to change. Please check back for updates.
 1. Clone the repository:
    ```bash
    git clone
-   https://github.com/FaithMutua-code/agri-verify-gmo-website
+   https://github.com/melau-eddy/react-tailwind-admin-dash
