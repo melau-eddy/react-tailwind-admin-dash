@@ -45,5 +45,17 @@ Features may be incomplete or subject to change. Please check back for updates.
    ```bash
    npm run build
    npm run preview
+
+## 🛠 Project Structure
+```bash
+src/
+├── assets/          # Static assets
+├── components/      # Reusable components
+├── pages/           # Page components
+├── styles/          # Global styles
+├── types/           # TypeScript types
+├── utils/           # Utility functions
+├── App.tsx          # Main app component
+└── main.tsx         # Entry point
    
 
